@@ -22,6 +22,8 @@
 
 # See https://github.com/kr/okjson for updates.
 
+# Upstream version: $Id$
+
 require 'stringio'
 
 # Some parts adapted from
